@@ -1,0 +1,2 @@
+time_zone,latitude,longitude,altitude,surface_tilt,surface_azimuth,albedo,api_key,json_path
+Europe/Athens,37.9838,23.7275,42,30,180,0.2,b600b0df80ebdabcd519b4b67541e56d,C:\temp\PV_ForecastIO\JSON
